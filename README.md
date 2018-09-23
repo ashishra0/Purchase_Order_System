@@ -7,7 +7,7 @@
 * Simple and clean to work with.
 * Added MySQL file for db import.
 * Compatible with PhpMyAdmin(Obviously).
-
+---
 The project is not complete as this was a challenge to develop in one week but rest assured DB is working nonetheless.
 
 ## How to make it work?
