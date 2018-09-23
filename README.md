@@ -10,11 +10,11 @@
 ---
 The project is not complete as this was a challenge to develop in one week but rest assured DB is working nonetheless.
 
-## How to make it work?
+## How to make it work? :confused:
 All you need is a MAMP or a LAMP server XAMP can be used but it has it's own issues so windows users dont bother reading beyond this :satisfied:
 * git clone the repo into local development server directory.
 * Visit PhpMyAdmin and import the SQL file and check if DB is visible.
 * If yes then awesome you're set.
 * If not then trust me it works. 
-
+---
 > Code may not look good because haven't refactored it. Happy Coding! 
